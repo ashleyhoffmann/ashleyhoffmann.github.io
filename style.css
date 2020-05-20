@@ -50,13 +50,25 @@ body {
 }
 
 .links {
-  color: #84baad;
+  color: #84344e;
 }
 
 .words {
   color: black;
   font-weight: bolder;
   font-size: 16px;
+}
+
+.interview-header {
+  color: #e8e7e5;
+  font-size: larger;
+  text-decoration: underline;
+}
+
+.social-icons {
+  padding: 15px;
+  max-width: 60px;
+  height: auto;
 }
 
 /* Style the footer */
